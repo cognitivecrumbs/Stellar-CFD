@@ -1,0 +1,7 @@
+*.txt
+.vscode/*
+CMakeFiles/*
+out/*
+*.dat
+OpenGLApp
+.DS_Store

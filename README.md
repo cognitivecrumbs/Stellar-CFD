@@ -4,6 +4,8 @@ Project to recreate stellar like formuations using base compressible navier stok
 Navier stokes formulated with fvm method and roe averaging to determine boundary fluxes.
 Gravitational potential solved using poisson equation using fft method. Accelerations found using the gradient of the gravitational potential.
 
+Visualization using opengl in c++. Size of points represent density and color represent temperature.
+
 
 ![demo](demo.gif)
 

@@ -1,4 +1,9 @@
-WIP No documentation yet
+WIP Incomplete documentation
+
+Project to recreate stellar like formuations using base compressible navier stokes equations with self gravitional effects.
+Navier stokes formulated with fvm method and roe averaging to determine boundary fluxes.
+Gravitational potential solved using poisson equation using fft method. Accelerations found using the gradient of the gravitational potential.
+
 
 ![demo](demo.gif)
 
